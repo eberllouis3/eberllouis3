@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+- <b>Online Password Cracking Lab (Hydra)</b>
   - [Hydra Online Password Cracking](https://github.com/eberllouis3/LABURL)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Vulnerability Scanning on a Target Machine (Nessus)</b>
+  - [Nessus Tenables vulnerability Scan](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
