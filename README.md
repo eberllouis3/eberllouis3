@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Online Password Cracking Lab (Hydra)</b>
-  - [Hydra Online Password Cracking](https://github.com/eberllouis3/LABURL)
+  - [Hydra Online Password Cracking](https://github.com/eberllouis3/Hydra-Online-Password-Cracking)
 - <b>Vulnerability Scanning on a Target Machine (Nessus)</b>
   - [Nessus Tenables vulnerability Scan](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PowerShell</b>
