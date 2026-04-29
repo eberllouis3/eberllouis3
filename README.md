@@ -1,4 +1,4 @@
-<h1>Hello, I'm Eberl!</h1>
+<h1>Hello, I'm Eberl!</br><h2>IT Support Technician</h2></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
