@@ -5,18 +5,7 @@
 - <b>Online Password Cracking Lab (Hydra)</b>
   - [Hydra Online Password Cracking](https://github.com/eberllouis3/Hydra-Online-Password-Cracking)
 - <b>Vulnerability Scanning on a Target Machine (Nessus)</b>
-  - [Nessus Tenables vulnerability Scan](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Nessus Tenables vulnerability Scan](https://github.com/eberllouis3/Tenable-Nessus-Vulnerability-Scan) 
 
 <h2>📄Certifications </h2>
 
