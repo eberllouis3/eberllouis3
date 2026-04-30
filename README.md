@@ -1,5 +1,9 @@
 <h1>Hello, I'm Eberl!</br><h2>IT Support Technician</h2></h1>
 
+<h2>Learn more about Me!</h2>
+
+- [About me](https://github.com/eberllouis3/IT-Certifications)
+
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Online Password Cracking Lab (Hydra)</b>
