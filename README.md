@@ -4,6 +4,12 @@
 
 - [About me](https://github.com/eberllouis3/About-Me)
 
+
+<h2>📁 Resume</h2>
+
+- [My Resume](https://github.com/eberllouis3/My-Resume)
+
+
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Online Password Cracking Lab (Hydra)</b>
