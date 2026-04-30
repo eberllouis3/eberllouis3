@@ -2,7 +2,7 @@
 
 <h2>Learn more about Me!</h2>
 
-- [About me](https://github.com/eberllouis3/IT-Certifications)
+- [About me](https://github.com/eberllouis3/About-Me)
 
 <h2>👨‍💻 IT Projects:</h2>
 
